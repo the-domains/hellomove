@@ -1,0 +1,28 @@
+name: HelloMove
+favicon: null
+layout_spectrum: 0.930333690950647
+typography_spectrum: 0.05485280347056687
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.35233320156112313
+  lightness: 0.05805218988098204
+  saturation: 0.7441745398100466
+  rhythmicContrast: 0.2554641959723085
+purpose: []
